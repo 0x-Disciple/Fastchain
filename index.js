@@ -1,7 +1,7 @@
 const chalk = require('chalk').default;
 const axios = require('axios');
 const fs = require('fs');
-const banner = require(./config/banner')
+const banner = require('./config/banner')
     
 const BASE_URL = 'https://api.fastchain.org/v2/check-in';
 const INFO_URL = 'https://api.fastchain.org/v2/myinfo';
