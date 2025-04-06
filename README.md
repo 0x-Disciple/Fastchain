@@ -11,7 +11,7 @@
 ## Installation
 1. Clone this repository
 ```bash
-git clone https://github.com/AirdropLegionCommunity/Fastchain.git && cd Fastchain
+git clone https://github.com/CryptoKidzz/Fastchain.git && cd Fastchain
 ```
 2. Install dependencies
 ```bash
